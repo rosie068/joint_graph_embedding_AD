@@ -2,7 +2,7 @@
 
 Repository for studying correlations between neuraldegeneration volume over time in patients with mild Alzheimer's vs. severe.
 
-dataset: contains the sample dataset that the paper is based on, taken from ADNI 1 dataset UCSF Longitudinal study
+dataset: first agree to the user agreement by Alzheimer's Disease Neuroimaging Initiative: ADNI and download the ADNI1 3Y1.5T Longitudinal FreeSurfer dataset by University of California, San Francisco from the website. Make sure the fiels UCSFFSL_02_01_16.csv, UCSFFSL_DICT_11_01_13.csv and the subject CDR ratings in CDR.csv are in a directory named dataset in the working directory with the notebooks.
 
 preprocess: notebook on preprocessing data dataset. If input data has the same format as our example, can also preprocess into input format 
 
