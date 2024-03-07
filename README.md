@@ -1,6 +1,6 @@
 # structural_connectivity_AD
 
-Repository for studying correlations between neuraldegeneration volume over time in patients with mild Alzheimer's vs. severe.
+Repository for studying correlations between neuraldegeneration volume over time in patients with mild Alzheimer's vs. severe. The published paper can be found here: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10406695/ 
 
 dataset: first agree to the user agreement by Alzheimer's Disease Neuroimaging Initiative: ADNI and download the ADNI1 3Y1.5T Longitudinal FreeSurfer dataset by University of California, San Francisco from the website. Make sure the files UCSFFSL_02_01_16.csv, UCSFFSL_DICT_11_01_13.csv and the subject CDR ratings in CDR.csv are in a directory named dataset in the working directory with the notebooks.
 
